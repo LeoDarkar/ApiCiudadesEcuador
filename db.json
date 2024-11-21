@@ -1,5 +1,4 @@
-{
-  "provincias": [
+"provincias": [
     { 
       "id": 1,
       "admin_name": "Guayas" 
@@ -93,4 +92,3 @@
       "admin_name": "Galápagos" 
     }
   ]
-}
